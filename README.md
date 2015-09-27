@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/aurarad/auroracoin.svg?branch=master-0.8)](https://travis-ci.org/aurarad/auroracoin)
 
-http://www.auroracoin.org
+http://www.auroracoin.is
 
 Follow [@auroracoinIS](http://twitter.com/auroracoinIS)
 
@@ -26,7 +26,7 @@ http://www.reddit.com/r/auroracoin
 
 http://www.reddit.com/r/AURmarket
 
-https://bitcointalk.org/index.php?topic=446062.0
+https://bitcointalk.org/index.php?topic=1044432.0
 
 
 ## Developers
